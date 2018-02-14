@@ -1,0 +1,23 @@
+<style>
+img {
+    float: right;
+    alt : weather logo;
+    width: 10 px;
+    height :100px;
+}
+p {
+    color: blue ;
+}
+h2{
+    background-color: aquamarine;
+    color: crimson ;
+    align-content: center;
+}
+ nav {
+     border: 2px solid black;
+    outline: #4CAF50 solid 10px;
+    margin: auto;    
+    padding: 20px;
+    text-align: center;
+}
+</style>
